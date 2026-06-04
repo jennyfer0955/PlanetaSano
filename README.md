@@ -130,6 +130,8 @@ http://localhost/PlanetaSano/public/index.php
 
 ![INICIO](screenshots/InicioMovil.png)
 
+---
+
 ### Huella Ecológica
 
 **WEB**
@@ -142,6 +144,8 @@ http://localhost/PlanetaSano/public/index.php
 
 ![HUELLA](screenshots/HuellaMovil.png)
 
+---
+
 ### Sobre Nosotros
 
 **WEB**
@@ -151,6 +155,8 @@ http://localhost/PlanetaSano/public/index.php
 **MÓVIL**
 
 ![NOSOTROS](screenshots/SobreMovil.png)
+
+---
 
 ### Medidas para cuidar el planeta
 
@@ -162,6 +168,8 @@ http://localhost/PlanetaSano/public/index.php
 
 ![MEDIDAS](screenshots/MedidasMovil.png)
 
+---
+
 ### Inventos para cuidar el medio ambiente
 
 **WEB**
@@ -171,6 +179,8 @@ http://localhost/PlanetaSano/public/index.php
 **MÓVIL**
 
 ![INVENTOS](screenshots/InventosMovil.png)
+
+---
 
 ### Productos amigables con el medio ambiente
 
@@ -184,6 +194,8 @@ http://localhost/PlanetaSano/public/index.php
 
 ![PRODUCTOS](screenshots/ProductosMovil.png)
 
+---
+
 ### Contaminación del Suelo
 
 **WEB**
@@ -193,6 +205,8 @@ http://localhost/PlanetaSano/public/index.php
 **MÓVIL**
 
 ![SUELO](screenshots/SueloMovil.png)
+
+---
 
 ### Contaminación del Aire
 
@@ -204,6 +218,8 @@ http://localhost/PlanetaSano/public/index.php
 
 ![AIRE](screenshots/AireMovil.png)
 
+---
+
 ### Contaminación del Agua
 
 **WEB**
@@ -214,6 +230,8 @@ http://localhost/PlanetaSano/public/index.php
 
 ![AGUA](screenshots/AguaMovil.png)
 
+---
+
 ### Contaminación del Termica
 
 **WEB**
@@ -223,6 +241,8 @@ http://localhost/PlanetaSano/public/index.php
 **MÓVIL**
 
 ![TERMICA](screenshots/TermicaMovil.png)
+
+---
 
 ### Organizaciones
 
