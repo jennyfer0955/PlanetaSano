@@ -84,13 +84,15 @@ PlanetaSano/
 git clone https://github.com/jennyfer0955/PlanetaSano.git
 ```
 
-### 2. Configurar servidor local
+### 2. Instalar XAMPP
 
-Puedes usar:
+Descargar desde:
+https://www.apachefriends.org/
 
-* XAMPP
-* WAMP
-* Laragon
+Activar los servicios:
+
+* Apache
+* MySQL
 
 Coloca el proyecto en:
 
