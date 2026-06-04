@@ -1,0 +1,23 @@
+@charset "utf-8";
+/*CSS Planixus*/
+figure img{
+	width: 95%;
+	height: auto;
+	margin: 0 auto;
+}
+.boton{
+	width: 160px;
+	height: 30px;
+}
+.botMapa{
+	width: 160px;
+	height: 30px;
+	
+}
+i{
+	width: 30px;
+	height: 30px;
+}
+a{
+	text-decoration: blink;
+}

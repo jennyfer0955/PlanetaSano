@@ -1,0 +1,39 @@
+@charset "utf-8";
+/*Paleta de colores*/
+nav, footer{
+	background-color: #b5daf8;
+	color: #014701;
+}
+.subtitulo{
+	color: #033d62;
+}
+#titulo{
+	color: #063732;
+}
+h2{
+	color: #13a2d8;
+}
+p{
+	color: #000000;
+}
+.justificado{
+	color: #000000;
+}
+.boton{
+	background-color: #b5daf8;
+	color: #000000;
+}
+.botMapa{
+	background-color: #b5daf8;
+	color: #000000;
+}
+.botMapa:visited{background-color: #b5daf8}
+.botMapa:hover{background-color: #258432}
+.botMapa:active{background-color: #033d62}
+.boton:visited{background-color: #b5daf8}
+.boton:hover{background-color: #258432}
+.boton:active{background-color: #033d62}
+.nav-link:visited{color: #014701;}
+.nav-link:hover{color: #063732;}
+.dropdown-item:visited{color: #014701;}
+.dropdown-item:hover{color: #063732;}
